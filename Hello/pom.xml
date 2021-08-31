@@ -22,7 +22,7 @@
     		<repository>
         		<id>artifactory</id>
         		<name>artifactory-releases</name>
-        		<url>http://localhost:8081/artifactory/tektutor</url>
+        		<url>http://localhost:8081/artifactory/krishnamohan</url>
     		</repository>
 	</distributionManagement>
 </project>
